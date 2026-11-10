@@ -1,76 +1,16 @@
+<!-- Every card is an animated SVG drawn by scripts/render_readme_cards.py and refreshed daily
+     by .github/workflows/update-profile-art.yml. Design: "Three Worlds", paper, ink and blue palette.
+     Spacing is baked into the SVGs, so keep this block free of blank lines and keep the cards in
+     a row on one line with no spaces between them. -->
 <div align="center">
-
-  <!-- ==================== HERO SECTION ==================== -->
-  <a href="https://portfolio-website-ten-theta-96.vercel.app/">
-    <img src="assets/cards/hero.svg" alt="Abu Sufiyan — Software Developer &amp; Systems Engineer" width="880" style="max-width: 100%; height: auto;" />
-  </a>
-
-  <br />
-
-  <!-- ==================== SKILLS SECTION ==================== -->
-  <img src="assets/cards/skills.svg" alt="Technical Arsenal &amp; Capabilities" width="880" style="max-width: 100%; height: auto;" />
-
-  <br />
-
-  <!-- ==================== CONTRIBUTION DASHBOARD ==================== -->
-  <img src="assets/cards/contribution-stats.svg" alt="GitHub Contribution Activity &amp; Telemetry" width="880" style="max-width: 100%; height: auto;" />
-
-  <br />
-
-  <!-- ==================== CONTRIBUTION HEATMAP ==================== -->
-  <img src="assets/cards/contribution-heatmap.svg" alt="Annual Contribution Heatmap Matrix" width="880" style="max-width: 100%; height: auto;" />
-
-  <br />
-
-  <!-- ==================== FEATURED PROJECTS ==================== -->
-  <p align="center">
-    <a href="https://music-six-lemon.vercel.app/">
-      <img src="assets/cards/project-aura.svg" alt="Aura — Music Streaming Platform" width="430" style="max-width: 48%; height: auto; margin: 4px;" />
-    </a>
-    <a href="https://github.com/Abbusufiyan/Employee_Management_System">
-      <img src="assets/cards/project-nexus-ems.svg" alt="NexusEMS — Intern Management Platform" width="430" style="max-width: 48%; height: auto; margin: 4px;" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://portfolio-website-ten-theta-96.vercel.app/">
-      <img src="assets/cards/project-portfolio.svg" alt="Interactive 3D Portfolio" width="430" style="max-width: 48%; height: auto; margin: 4px;" />
-    </a>
-    <a href="https://github.com/Abbusufiyan/ACER-ALG-KEYBOARD-LIGHT-CONTRO">
-      <img src="assets/cards/project-acer-control.svg" alt="Acer ALG Control Center" width="430" style="max-width: 48%; height: auto; margin: 4px;" />
-    </a>
-  </p>
-
-  <br />
-
-  <!-- ==================== CONNECT SECTION ==================== -->
-  <a href="https://portfolio-website-ten-theta-96.vercel.app/">
-    <img src="assets/cards/connect.svg" alt="Connect &amp; Collaborate" width="880" style="max-width: 100%; height: auto;" />
-  </a>
-
+<a href="https://portfolio-website-ten-theta-96.vercel.app/"><img src="./cards/hero.svg" width="100%" alt="Abu Sufiyan. Software Developer · CS Student. I build full-stack web applications, interactive 3D experiences, and Linux tools that bring hardware to life." /></a><br>
+<img src="./cards/heatmap.svg" width="100%" alt="Abu Sufiyan's contribution graph, in blue, refreshed daily" /><br>
+<img src="./cards/activity.svg" width="100%" alt="Contributions in the last 12 months, by month, with streak and busiest day" /><br>
+<a href="https://portfolio-website-ten-theta-96.vercel.app/"><img src="./cards/build.svg" width="33.333%" alt="BUILD: 25 repos. Full-stack development, web applications and software projects." /></a><a href="https://portfolio-website-ten-theta-96.vercel.app/"><img src="./cards/brand.svg" width="33.333%" alt="BRAND: 3D experiences. Creative interfaces, interactive 3D experiences and engineering." /></a><a href="https://portfolio-website-ten-theta-96.vercel.app/"><img src="./cards/learn.svg" width="33.333%" alt="LEARN: 12 day streak. Data structures, algorithms, computer science and continuous learning." /></a><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./cards/title-coding-dark.svg" /><img src="./cards/title-coding-light.svg" width="100%" alt="What I'm coding" /></picture><br>
+<a href="https://music-six-lemon.vercel.app/"><img src="./cards/repo-aura.svg" width="33.333%" alt="Aura: Full-stack music streaming platform with 3D audio-reactive WebGL visualizer and JWT auth." /></a><a href="https://github.com/Abbusufiyan/Employee_Management_System"><img src="./cards/repo-nexus-ems.svg" width="33.333%" alt="NexusEMS: Intern management platform with role-based auth, task tracking and reviews." /></a><a href="https://github.com/Abbusufiyan/ACER-ALG-KEYBOARD-LIGHT-CONTRO"><img src="./cards/repo-acer-alg-control.svg" width="33.333%" alt="Acer ALG Control: Native Linux utility for Acer ALG laptops: RGB lighting, dual fans and telemetry." /></a>
 </div>
 
----
-
-### 📂 Featured Architectural Showcase
-
-| Project | Category | Primary Stack | Repository / Live |
-| :--- | :--- | :--- | :--- |
-| **Aura** | Full-Stack Audio Streaming | React, TypeScript, Node.js, Express, MySQL, WebGL | [Live Demo ↗](https://music-six-lemon.vercel.app/) • [Repository →](https://github.com/Abbusufiyan/Music) |
-| **NexusEMS** | Intern Management Platform | React.js, Node.js, Express.js, MySQL, JWT | [Repository →](https://github.com/Abbusufiyan/Employee_Management_System) |
-| **3D Portfolio** | Interactive Web Experience | React, TypeScript, Three.js, R3F, Tailwind | [Live Demo ↗](https://portfolio-website-ten-theta-96.vercel.app/) • [Repository →](https://github.com/Abbusufiyan/Portfolio-Website) |
-| **Acer ALG Control** | Linux Hardware Utility &amp; GUI | Python 3, PyQt6, ACPI Driver, DKMS, Linux Sysfs | [Repository →](https://github.com/Abbusufiyan/ACER-ALG-KEYBOARD-LIGHT-CONTRO) |
-
----
-
-### 🌐 Direct Channels &amp; Profiles
-
-- **Interactive Portfolio:** [portfolio-website-ten-theta-96.vercel.app](https://portfolio-website-ten-theta-96.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/abu-sufiyan-5b1934333](https://linkedin.com/in/abu-sufiyan-5b1934333/)
-- **GitHub:** [github.com/Abbusufiyan](https://github.com/Abbusufiyan)
-- **LeetCode:** [leetcode.com/u/BUHw5Vatuj](https://leetcode.com/u/BUHw5Vatuj/)
-
----
-
-<div align="center">
-  <sub>⚡ Automated telemetry refreshed daily via GitHub Actions • Engineered with pure SVG &amp; CSS keyframe animations</sub>
-</div>
+<p align="center">
+<a href="https://portfolio-website-ten-theta-96.vercel.app/">portfolio</a> &nbsp;/&nbsp; <a href="https://linkedin.com/in/abu-sufiyan-5b1934333/">linkedin</a> &nbsp;/&nbsp; <a href="https://github.com/Abbusufiyan">github</a> &nbsp;/&nbsp; <a href="https://leetcode.com/u/BUHw5Vatuj/">leetcode</a>
+</p>
