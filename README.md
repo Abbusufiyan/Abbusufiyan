@@ -3,8 +3,7 @@
      Spacing is baked into the SVGs, so keep this block free of blank lines and keep the cards in
      a row on one line with no spaces between them. -->
 <div align="center">
-<a href="https://portfolio-website-ten-theta-96.vercel.app/"><img src="./cards/hero.svg" width="100%" alt="Abu Sufiyan. Software Developer · CS Student. I build full-stack web applications,
-                                                                  interactive 3D experiences, and Linux tools that bring hardware to life." /></a><br>
+<a href="https://portfolio-website-ten-theta-96.vercel.app/"><img src="./cards/hero.svg" width="100%" alt="Abu Sufiyan. Software Developer · CS Student. I build full-stack web applications,                         interactive 3D experiences, and Linux tools that bring hardware to life." /></a><br>
 <img src="./cards/heatmap.svg" width="100%" alt="Abu Sufiyan's contribution graph, in blue, refreshed daily" /><br>
 <img src="./cards/activity.svg" width="100%" alt="Contributions in the last 12 months, by month, with streak and busiest day" /><br>
 <a href="https://portfolio-website-ten-theta-96.vercel.app/"><img src="./cards/build.svg" width="33.333%" alt="BUILD: 25 repos. Full-stack development, web applications and software projects." /></a><a href="https://portfolio-website-ten-theta-96.vercel.app/"><img src="./cards/brand.svg" width="33.333%" alt="BRAND: 3D experiences. Creative interfaces, interactive 3D experiences and engineering." /></a><a href="https://portfolio-website-ten-theta-96.vercel.app/"><img src="./cards/learn.svg" width="33.333%" alt="LEARN: 12 day streak. Data structures, algorithms, computer science and continuous learning." /></a><br>
