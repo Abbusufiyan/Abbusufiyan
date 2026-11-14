@@ -1,22 +1,22 @@
 {
   "username": "Abbusufiyan",
-  "generated_at": "2026-11-13T14:37:49Z",
+  "generated_at": "2026-11-14T13:35:05Z",
   "range": {
     "start": "2025-11-09",
-    "end": "2026-11-13"
+    "end": "2026-11-14"
   },
-  "total_contributions": 256,
-  "active_days": 46,
-  "avg_per_active_day": 5.6,
+  "total_contributions": 189,
+  "active_days": 25,
+  "avg_per_active_day": 7.6,
   "current_streak": {
     "length": 10,
     "start": "2026-11-04",
     "end": "2026-11-13"
   },
   "longest_streak": {
-    "length": 12,
-    "start": "2026-03-20",
-    "end": "2026-03-31"
+    "length": 10,
+    "start": "2026-11-04",
+    "end": "2026-11-13"
   },
   "best_day": {
     "date": "2026-11-08",
@@ -41,7 +41,7 @@
     },
     {
       "month": "2026-03",
-      "total": 56
+      "total": 0
     },
     {
       "month": "2026-04",
@@ -49,7 +49,7 @@
     },
     {
       "month": "2026-05",
-      "total": 9
+      "total": 0
     },
     {
       "month": "2026-06",
@@ -61,11 +61,11 @@
     },
     {
       "month": "2026-08",
-      "total": 8
+      "total": 7
     },
     {
       "month": "2026-09",
-      "total": 22
+      "total": 20
     },
     {
       "month": "2026-10",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-11",
-      "total": 129
+      "total": 130
     }
   ],
   "days": [
@@ -649,8 +649,8 @@
     },
     {
       "date": "2026-03-03",
-      "count": 1,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-03-04",
@@ -734,63 +734,63 @@
     },
     {
       "date": "2026-03-20",
-      "count": 4,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-03-21",
-      "count": 2,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-03-22",
-      "count": 1,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-03-23",
-      "count": 2,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-03-24",
-      "count": 2,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-03-25",
-      "count": 1,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-03-26",
-      "count": 17,
-      "level": 3
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-03-27",
-      "count": 15,
-      "level": 3
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-03-28",
-      "count": 1,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-03-29",
-      "count": 3,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-03-30",
-      "count": 4,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-03-31",
-      "count": 3,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-04-01",
@@ -989,23 +989,23 @@
     },
     {
       "date": "2026-05-10",
-      "count": 1,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-05-11",
-      "count": 1,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-05-12",
-      "count": 1,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-05-13",
-      "count": 1,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-05-14",
@@ -1024,13 +1024,13 @@
     },
     {
       "date": "2026-05-17",
-      "count": 1,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-05-18",
-      "count": 4,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-05-19",
@@ -1459,8 +1459,8 @@
     },
     {
       "date": "2026-08-12",
-      "count": 8,
-      "level": 2
+      "count": 7,
+      "level": 1
     },
     {
       "date": "2026-08-13",
@@ -1609,13 +1609,13 @@
     },
     {
       "date": "2026-09-11",
-      "count": 1,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-09-12",
-      "count": 1,
-      "level": 1
+      "count": 0,
+      "level": 0
     },
     {
       "date": "2026-09-13",
@@ -1924,8 +1924,13 @@
     },
     {
       "date": "2026-11-13",
-      "count": 12,
+      "count": 13,
       "level": 2
+    },
+    {
+      "date": "2026-11-14",
+      "count": 0,
+      "level": 0
     }
   ]
 }
