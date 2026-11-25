@@ -1,22 +1,22 @@
 {
   "username": "Abbusufiyan",
-  "generated_at": "2026-11-24T17:50:02Z",
+  "generated_at": "2026-11-25T17:16:57Z",
   "range": {
     "start": "2025-11-23",
+    "end": "2026-11-25"
+  },
+  "total_contributions": 207,
+  "active_days": 36,
+  "avg_per_active_day": 5.8,
+  "current_streak": {
+    "length": 21,
+    "start": "2026-11-04",
     "end": "2026-11-24"
   },
-  "total_contributions": 206,
-  "active_days": 35,
-  "avg_per_active_day": 5.9,
-  "current_streak": {
-    "length": 20,
-    "start": "2026-11-04",
-    "end": "2026-11-23"
-  },
   "longest_streak": {
-    "length": 20,
+    "length": 21,
     "start": "2026-11-04",
-    "end": "2026-11-23"
+    "end": "2026-11-24"
   },
   "best_day": {
     "date": "2026-11-08",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-11",
-      "total": 147
+      "total": 148
     }
   ],
   "days": [
@@ -1909,6 +1909,11 @@
     },
     {
       "date": "2026-11-24",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-11-25",
       "count": 0,
       "level": 0
     }
